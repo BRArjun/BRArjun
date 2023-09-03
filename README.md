@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm B R Arjun</h1>
-<h3 align="center">CS student diving into AI/ML, fueled by curiosity for tech and problem-solving.</h3>
+<h3 align="center">A Passionate Computer Science student diving into the world of AI/ML, fueled by a curiosity for tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brarjun&label=Profile%20views&color=0e75b6&style=flat" alt="brarjun" /> </p>
 
