@@ -1,5 +1,5 @@
 <h1 align="center">Howdy!! 👋</h1>
-<h3 align="center">A computer once beat me at chess, but it was no match for me at kick boxing.</h3>
+<h3 align="center">"A computer once beat me at chess, but it was no match for me at kick boxing."</h3>
 <h3 align="right">-Emo Philips</h3>
 
 <div align="left">
