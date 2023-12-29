@@ -6,7 +6,11 @@
   <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="400" height="300"/>
 </div>
 
-📖Currently pursuing CSE(AI and ML) at 🏫 PES University
+👨‍🎓Myself B R Arjun!!
+
+👉I like Machine Learning👨‍💻 and Linux💻.
+
+📖Currently pursuing CSE(AI and ML) at 🏫 PES University.
 
 📫 Reach out to me:**brarjunkunjithaya@gmail.com**
 
