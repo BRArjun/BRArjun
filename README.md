@@ -33,6 +33,4 @@
   
 </div>
 
-<h3 align="left">
-
-</p>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/BRArjun/langs)](https://githubtrends.io)
