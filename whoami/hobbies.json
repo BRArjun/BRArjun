@@ -1,0 +1,62 @@
+[
+  {
+      "type": "hobbies",
+      "name": "Music",
+      "children": [
+          "EDM",
+          "Classical",
+          "Western",
+          "Country",
+          "... and so much more"
+      ]
+  },
+  {
+      "type": "hobby",
+      "name": "Movies",
+      "children": [
+          "The Lord of the Rings (trilogy)",
+          "Harry Potter (all of it)",
+          "Insidious (all of it)",
+          "Clash of the Titans",
+          "Spirited Away / Suzume / The Boy and the Heron / ...",
+          "Shaolin Soccer / Kung Fu Hustle",
+          "... and so much more"
+      ]
+  },
+  {
+      "type": "hobby",
+      "name": "Series",
+      "children": [
+          "Family Guy",
+          "Rick & Morty",
+          "Friends",
+          "Brooklyn Nine Nine",
+          "Dexter",
+          "... and so much more"
+      ]
+  },
+  {
+      "type": "hobby",
+      "name": "Animes",
+      "children": [
+          "JJK",
+          "Demon Slayer",
+          "Dragon Ball",
+          "Full Metal Alchemist",
+          "Haikyuu",
+          "... and so much more"
+      ]
+  },
+  {
+      "type": "hobby",
+      "name": "Manga",
+      "children": [
+          "Vagabond",
+          "Blue Lock",
+          "Solo Levelling",
+          "Berserk",
+          "Naruto",
+          "... and so much more"
+      ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "type": "skills",
+    "name": "Languages",
+    "children": ["C", "Python"]
+  },
+  {
+      "type": "skills",
+      "name": "Devops",
+      "children": ["docker"]
+  },
+  {
+    "type": "skills",
+    "name": "ML",
+    "children": ["scikit-learn", "pandas", "opencv", "tensorflow"]
+  },
+  {
+    "type": "skills",
+    "name": "Database",
+    "children": ["mongodb", "mysql"]
+  },
+  {
+      "type": "skills",
+      "name": "Design Visualization",
+      "children": ["figma"]
+  },
+  {
+    "type": "skills",
+    "name": "Frontend",
+    "children": ["react", "next", "javascript", "html5", "taiwind css"]
+  },
+  {
+    "type": "skills",
+    "name": "Backend",
+    "children": ["nodejs", "express", "hadoop", "flask"]
+  },
+  {
+    "type": "skills",
+    "name": "Mobile",
+    "children": ["flutter", "dart"]
+  },
+  {
+    "type": "skills",
+    "name": "Miscellaneous",
+    "children": ["linux", "git", "github", "bash scripting"]
+  }
+]
