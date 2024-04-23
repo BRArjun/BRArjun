@@ -1,3 +1,5 @@
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&font=Redressed&layout=Socrates)
+
 <p align="center"><img style="width: 100%" src="./assets/terminal.gif" alt="terminal cv gif" />
 </p>
 
