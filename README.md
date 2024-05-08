@@ -1,10 +1,4 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=grow_out_in&font=Default&layout=churchill" alt="Jokes Card">
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=grow_out_in&font=Default&layout=churchill" alt="Jokes Card">
 
 <p align="center"><img style="width: 100%" src="./assets/terminal.gif" alt="terminal cv gif" /></p>
 
