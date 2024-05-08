@@ -12,10 +12,7 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-<!--Inspired by @hedyhli's README--!>
-
-
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=grow_out_in&font=Default&layout=churchill" alt="Jokes Card">
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=800&duration=4750&pause=182&color=FFFFFFD7&random=false&width=435&lines=echo+%22Welcome%22;cat+%24whoami+%3D+B+R+Arjun)](https://git.io/typing-svg)
 
 <p align="center"><img style="width: 100%" src="./assets/terminal.gif" alt="terminal cv gif" /></p>
 
