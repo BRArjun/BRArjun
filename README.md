@@ -3,9 +3,6 @@
     <td>
       <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=grow_out_in&font=Default&layout=churchill" alt="Jokes Card">
     </td>
-    <td>
-      <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=watermelon" alt="Jokes Card">
-    </td>
   </tr>
 </table>
 
