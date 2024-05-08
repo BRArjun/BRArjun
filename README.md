@@ -21,8 +21,6 @@
 
 <!--<img src="https://myreadme.vercel.app/api/embed/BRArjun?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />-->
 
-<img src="https://github-profile-trophy.vercel.app/?username=BRArjun&theme=juicyfresh&no-bg=true" />
-
 ## [Check this Out! 👇](https://octo-ring.com/)
 
 [![Prev](https://img.shields.io/badge/Prev-orange?style=for-the-badge)](https://octo-ring.com/p/BRArjun/prev)
