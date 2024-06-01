@@ -14,6 +14,7 @@
 
 <p align="center"><img style="width: 100%" src="./assets/terminal.gif" alt="terminal cv gif" /></p>
 
+### Here is my [Portfolio](https://brarjun.vercel.app)
 <!--<img src="https://myreadme.vercel.app/api/embed/BRArjun?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />-->
 
 ## [Check this Out! 👇](https://octo-ring.com/)
