@@ -1,5 +1,7 @@
 <p align="center"><img style="width: 100%" src="./assets/terminal.gif" alt="terminal cv gif" /></p>
 
+<iframe src="https://brarjun.vercel.app" width=”90%” height=”400″ name=”iframe” title=”My Portfolio”></iframe>
+
 ### Here is my [Portfolio](https://brarjun.vercel.app)!
 <!--<img src="https://myreadme.vercel.app/api/embed/BRArjun?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />-->
 
