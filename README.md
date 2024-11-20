@@ -1,5 +1,5 @@
 <p align="center"><img style="width: 100%" src="./assets/terminal.gif" alt="terminal cv gif" /></p>
-<a href="https://monkeytype.com/profile/KrakenAspecto"> <img src="https://raw.githubusercontent.com/BRArjun/BRArjun/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" /> </a>
+<a href="https://monkeytype.com/profile/KrakenAspecto"> <img src="https://raw.githubusercontent.com/GitKraken/BRArjun/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" /> </a>
 <!--<img src="https://myreadme.vercel.app/api/embed/BRArjun?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />-->
 
 
