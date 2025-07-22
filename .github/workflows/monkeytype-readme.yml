@@ -1,23 +1,32 @@
+name: Generate MonkeyType README SVG – PB only
+
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # every 6 hours
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  download-svg:
+  download-pb-svg:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: "20.x"
-      - name: Generate MonkeyType SVG
-        uses: monkeytype-hub/monkeytype-readme@v1.0.0
+
+      - name: Generate personal-best SVG only
+        run: |
+          mkdir -p public
+          curl -o public/monkeytype-readme-pb.svg \
+            "https://monkeytype-readme.com/generate-svg/KrakenAspecto/gruvbox_dark?pb=true"
+
+      - name: Publish PB SVG via Pages branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
-          username: KrakenAspecto
-          themes: gruvbox_dark
-          target-branch: monkeytype-readme
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: monkeytype-readme
+          build_dir: public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
